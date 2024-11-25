@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: local-agent
+  vmImage: default
 
 variables:
   buildConfiguration: 'Release'
