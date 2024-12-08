@@ -1,1 +1,3 @@
-
+variable:
+- name: templateVariable1
+  value: tempValue1
